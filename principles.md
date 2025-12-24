@@ -4,8 +4,6 @@ title: Principles
 permalink: /principles/
 ---
 
-## General Principles
-
 We see all human beings as of equal value. In our different ways we pray for peace or hold peace in our thoughts and actions. We look for practical ways we can build bridges and contribute to peace and harmonious living among diverse people and build a better future. We believe good inter faith work has a valuable role to play here. 
 
 As an inter faith group we respect the right to hold different views, but we can never condone violence in the name of any ideology, and we call out the wrongness of using the name of God or any worldview to justify atrocities. 
