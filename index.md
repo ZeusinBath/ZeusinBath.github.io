@@ -21,3 +21,4 @@ Bath IFG aims to:
 - encourage public bodies, including the Council, health and educational institutions, to reflect interfaith principles in their policies and actions;
 - act as a resource centre for information about local faith communities;
 - live up to the ideals set out in the Millennial Act of Commitment developed by faith communities of the UK.
+
