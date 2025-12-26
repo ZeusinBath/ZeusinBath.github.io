@@ -5,7 +5,7 @@ theme: minima
 logo: /assets/images/bathifgtestlogo2purple.jpg
 
 header_pages:
-  - home.md
+  - index.md
   - principles.md
   - events.md
   - join.md
