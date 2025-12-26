@@ -1,11 +1,10 @@
+---
+layout: home
+title: Home
+---
 <img src="/assets/images/bathifg-logo.jpg"
      alt="Bath Inter Faith Group logo"
      style="width:120px; float:left; margin:0 20px 20px 0;">
-
----
-layout: home
-title: Home; about
----
 
 # Bath Inter Faith Group
 
