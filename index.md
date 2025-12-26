@@ -1,4 +1,7 @@
-![Bath Inter Faith Group logo](/assets/images/BathIFG-2-purple.jpg)
+<img src="/assets/images/bathifg-logo.jpg"
+     alt="Bath Inter Faith Group logo"
+     style="width:120px; float:left; margin:0 20px 20px 0;">
+
 ---
 layout: home
 title: Home; about
