@@ -1,10 +1,8 @@
 title: Bath Inter Faith Group
-description: Promoting understanding and dialogue between faiths in Bath
+description: Connecting people of good faith in Bath
 theme: minima
 
-<img src="/assets/images/bathifgtestlogo2purple.jpg"
-     alt="Bath Inter Faith Group logo"
-     style="width:120px; float:left; margin:0 20px 20px 0;">
+logo: /assets/images/bathifgtestlogo2purple.jpg
 
 header_pages:
   - index.md
