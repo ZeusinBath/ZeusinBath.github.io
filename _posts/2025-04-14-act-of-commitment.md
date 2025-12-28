@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bath IFG reaffirms the Jan 2000 Act of Commitment"
-date: YYYY-MM-DD
+date: 2025-04-14
 ---
 
 
