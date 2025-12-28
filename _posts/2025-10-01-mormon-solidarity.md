@@ -19,5 +19,6 @@ All the faiths represented in the Bath IFG reject violence. We wish to express s
 For more information see these two statements issued by the church: 
 
 [Remembering the Life of “beloved physician” President Russell M. Nelson](https://newsroom.churchofjesuschrist.org/article/president-russell-m-nelson-memorial)
+
 [Statement on Violence at a Chapel in Grand Blanc, Michigan](https://newsroom.churchofjesuschrist.org/article/statement-violence-chapel-grand-blanc-michigan)
 
