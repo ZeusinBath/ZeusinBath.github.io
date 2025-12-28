@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 <img src="/assets/images/bathifgtestlogo2purple.jpg"
