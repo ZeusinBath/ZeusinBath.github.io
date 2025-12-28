@@ -4,8 +4,6 @@ title: "Bath's first Refugee Festival takes place at Fairfield House"
 date: 2025-07-17
 ---
 
-![IMAGE ALT TEXT](/assets/images/news/IMAGE-FILENAME.jpg)
-
 
 Bath IFG took part in the first Bath Refugee Festival. Organised by Sudafest, the event took place at Fairfield House, former home of Ethiopian Emperor Haile Selassie I. 
 
