@@ -4,8 +4,6 @@ title: "Peace Project in Tblisi Georgia embraces a cathedral, synagogue and mosq
 date: 2025-08-24
 ---
 
-![IMAGE ALT TEXT](/assets/images/news/IMAGE-FILENAME.jpg)
-
 
 Bishop Malkhaz Songulashvili is a champion of concrete inter faith action. Troubled by rising homophobia, Islamophobia and anti-semitism in his native Georgia he built a synagogue and a mosque in his Cathedral, despite significant opposition from the government and orthodox faiths. 
 
