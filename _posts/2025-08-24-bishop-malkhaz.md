@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peace Project in Tblisi Georgia embraces a cathedral, synagogue and mosque"
-date: YYYY-MM-DD
+date: 2025-08-24
 ---
 
 ![IMAGE ALT TEXT](/assets/images/news/IMAGE-FILENAME.jpg)
