@@ -4,8 +4,6 @@ title: "Outgoing University chaplain Revd Nigel Rawlinson speech to Muslim stude
 date: 2025-06-03
 ---
 
-![IMAGE ALT TEXT](/assets/images/news/IMAGE-FILENAME.jpg)
-
 
 *Revd Nigel Rawlinson, outgoing University of Bath Chaplain and Interfaith Lead, spoke to a gathering held by Bath University Islamic Society (BUIS) at the Bath Mosque. Here is an abridged text of his speech.*
 
