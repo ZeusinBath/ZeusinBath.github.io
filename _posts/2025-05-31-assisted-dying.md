@@ -4,9 +4,6 @@ title: "Bath MP hears faith perspectives on assisted dying"
 date: 2025-05-31
 ---
 
-![IMAGE ALT TEXT](/assets/images/news/IMAGE-FILENAME.jpg)
-
-
 
 Wera Hobhouse MP heard a diverse range of faith perspectives on assisted dying on 29 May in an intense, often passionate and always respectful conversation organised by Bath Inter Faith Group. 
 
