@@ -5,3 +5,11 @@
 .site-footer .footer-col:first-child > *:first-child {
   display: none;
 }
+
+
+/* Improve body text readability */
+.page-content {
+  max-width: 720px;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
