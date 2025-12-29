@@ -1,8 +1,7 @@
 ---
 ---
 
-/* Minima footer: remove duplicate site titles */
-.site-footer h2,
-.site-footer .site-title {
+/* Minima footer: remove duplicate site title safely */
+.site-footer .footer-col:first-child > *:first-child {
   display: none;
 }
