@@ -10,7 +10,7 @@ Bath inter faith group remains faithful to the millennial Act of Commitment, whi
 Staying true to the Act of Commitment remains part of the Bath IFG's aims as set out in its constitution. See original text below: 
 
 
-**Text of the Act of Commitment (from Jan 2000)**
+[**Text of the Act of Commitment (from Jan 2000)**](https://www.interfaith.org.uk/resources/act-of-commitment)
 
 *In a world scarred by the evils of war, racism, injustice and poverty, we offer this joint Act of Commitment as we look to our shared future.* 
 
