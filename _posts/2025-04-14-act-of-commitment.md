@@ -12,8 +12,8 @@ Staying true to the Act of Commitment remains part of the Bath IFG's aims as set
 
 **Text of the Act of Commitment (from Jan 2000)**
 
-*In a world scarred by the evils of war, racism, injustice and poverty, we offer this joint Act of Commitment as we look to our shared future. 
+*In a world scarred by the evils of war, racism, injustice and poverty, we offer this joint Act of Commitment as we look to our shared future.* 
 
-We commit ourselves, as people of many faiths, to work together for the common good, uniting to build a better society, grounded in values and ideals we share: community, personal integrity, a sense of right and wrong, learning, wisdom and love of truth, care and compassion, justice and peace, respect for one another, for the earth and its creatures. 
+*We commit ourselves, as people of many faiths, to work together for the common good, uniting to build a better society, grounded in values and ideals we share: community, personal integrity, a sense of right and wrong, learning, wisdom and love of truth, care and compassion, justice and peace, respect for one another, for the earth and its creatures.* 
 
-We commit ourselves, in a spirit of friendship and co-operation, to work together alongside all who share our values and ideals, to help bring about a better world now and for generations to come.*
+*We commit ourselves, in a spirit of friendship and co-operation, to work together alongside all who share our values and ideals, to help bring about a better world now and for generations to come.*
