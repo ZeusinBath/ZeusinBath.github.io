@@ -45,7 +45,7 @@ Time: 18:30 for 19:00
 All members welcome  
 Contact: Hon Secretary Jane O'Hara
 
-**Date TBA – Spiritual Reasoning on Death of Jesus in Bible and Quran**  
+**Date TBA – Scriptural Reasoning on Death of Jesus in Bible and Quran**  
 Contact: Narinder Tegally
 
 ---
