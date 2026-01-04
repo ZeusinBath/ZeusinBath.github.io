@@ -55,6 +55,11 @@ Submitting the form will open your email application with your details included.
 
 </form>
 
+<p class="form-note">
+  You will receive a confirmation email after submitting.
+  If this fails for any reason or if you have any difficulties please just email the requested details to chair@bathifg.org.uk and/or secretary@bathifg.org.uk .
+</p>
 
-  If this fails for any reason please just email the requested details to chair@bathifg.org.uk and/or secretary@bathifg.org.uk
+
+
 
