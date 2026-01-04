@@ -9,17 +9,15 @@ You're welcome to join Bath IFG if you agree with its aims. Members are kept inf
 
 The aims are to:
 
-<ul> provide opportunities for people of all faiths or none to meet together in fellowship, and gain knowledge, understanding and respect for each other;
-<ul> celebrate the diversity of religions in Bath and the surrounding district;
-<ul> demonstrate dialogue among religions in Bath and the surrounding district;
-<ul> enrich the spiritual life of Bath and the surrounding district by promoting harmony between people of different faiths;
-<ul> encourage public bodies, including Council, health and educational institutions, to reflect interfaith principles in their policies and actions; 
-<ul> act as a resource-centre for information about local faith communities; and 
-<ul> aspire to the values and ideals set out in the Act of Commitment developed by faith communities of the UK.
-</p>
-
-If you agree with that just fill out this form. Submitting it sends your details securely to Bath IFG. 
-</p>
+<ul>
+  <li>provide opportunities for people of all faiths or none to meet together in fellowship, and gain knowledge, understanding and respect for each other;</li>
+  <li>celebrate the diversity of religions in Bath and the surrounding district;</li>
+  <li>demonstrate dialogue among religions in Bath and the surrounding district;</li>
+  <li>enrich the spiritual life of Bath and the surrounding district by promoting harmony between people of different faiths;</li>
+  <li>encourage public bodies, including Council, health and educational institutions, to reflect interfaith principles in their policies and actions;</li>
+  <li>act as a resource-centre for information about local faith communities; and</li>
+  <li>aspire to the values and ideals set out in the Act of Commitment developed by faith communities of the UK.</li>
+</ul>
 
 <form action="https://formspree.io/f/abcdwxyz" method="POST">
 
