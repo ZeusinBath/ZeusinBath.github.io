@@ -1,17 +1,12 @@
 ---
 layout: post
-title: "Welcome to Bath IFG News"
+title: "Here's an idea for 2026: join the Bath IFG"
 date: 2026-01-01
 ---
 
-Inter faith week starts with a beautiful event at Christ Church, Julian Road
-
-There was a beautiful shared event at Christ Church, Julian Road to start Inter Faith Week, conceived and organised by the Spirit of Peace charity. 
-
-The music was exceptional—not only from the talented church choir, but also from the Rainbow Steel Band, bansuri, tabla, harp, and Jewish East European violin. The food was delicious, and the fellowship heartwarming.
-
-We heard moving stories of faith journeys and practices from different traditions. The atmosphere was one of mutual respect and curiosity—no pressure, no comparisons, just listening and learning.
-
-There was a genuine openness, free from prejudice or superiority. It was a space where friendships were formed across faith and cultural lines, and where understanding grew.
-
-Events like this remind us that building bridges through dialogue and shared experience is a powerful path to social cohesion. It’s far more enriching than living in isolation or fear of difference.
+Here's a thing to consider for 2026. If you think it's a good idea that people of different faiths and cultures get together in friendship to do fun and worthwhile things why not join Bath Inter Faith Group? 
+It's free, and there are zero obligations - https://www.bathifg.org.uk/join/
+Next year Bath IFG activities will include socials, choir evening, walks, remembering the Holocaust and a trip to Tbilisi Georgia. 
+Last year we learned about Sufism, shared perspectives on assisted dying with our MP, met the Mayor and Lord Lieutenant, talked about the Middle East, and enjoyed good food and music. 
+We unite round the Golden Rule, the millenial act of commitment and the King's call for "clear collective commitment to those vital principles of freedom of conscience, generosity of spirit and care for others which are, to me, the essence of our nationhood".
+It's wholesome stuff, much needed at a time of wilful misunderstanding about other faiths and cultures when some would try to divide us...
