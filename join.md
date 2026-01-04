@@ -46,6 +46,7 @@ Submitting the form will open your email application with your details included.
 
   <button type="submit">Send membership request</button>
 
-  If ths fails for any reason please just email the requested details to chair@bathifg.org.uk and secretary@bathifg.org.uk
-
 </form>
+
+  If this fails for any reason please just email the requested details to chair@bathifg.org.uk and/or secretary@bathifg.org.uk
+
