@@ -5,12 +5,20 @@ title: Join
 
 <h1>Join Bath IFG as a member</h1>
 
-<p>
-  To become a member of Bath Inter Faith Group, please complete the form below.
-</p>
+To become a member of Bath inter faith group just use this form to provide your email address and confirm you agree with the group's aims. Submitting the form will send your details securely to Bath IFG. 
 
-<p>
-  Submitting the form will send your details securely to Bath IFG.
+Members are kept informed of meetings and events, and also get to vote for officers at the AGM. Being a member entails no cost, and no obligations.
+
+The aims are to:
+
+provide opportunities for people of all faiths or none to meet together in fellowship, and gain knowledge, understanding and respect for each other;
+celebrate the diversity of religions in Bath and the surrounding district;
+demonstrate dialogue among religions in Bath and the surrounding district;
+enrich the spiritual life of Bath and the surrounding district by promoting harmony between people of different faiths;
+encourage public bodies, including Council, health and educational institutions, to reflect interfaith principles in their policies and actions; 
+act as a resource-centre for information about local faith communities; and to
+aspire to the values and ideals set out in the Act of Commitment developed by faith communities of the UK.
+
 </p>
 
 <form action="https://formspree.io/f/abcdwxyz" method="POST">
