@@ -1,46 +1,51 @@
 ---
 layout: page
 title: Join
-permalink: /join/
 ---
 
-# Join Bath IFG as a Member
+## Join Bath IFG as a member
 
-To become a member of Bath Inter Faith Group, please use the link below to send an email.  
-Members are kept informed of meetings and events, and also get to vote for officers at the AGM. Being a member entails **no cost and no obligations**.
+To become a member of Bath Inter Faith Group, please complete the form below.  
+Submitting the form will open your email application with your details included.
 
----
 
-## The Aims
+<form action="mailto:chair@bathifg.org.uk,secretary@bathifg.org.uk"
+      method="post"
+      enctype="text/plain">
 
-The aims of Bath IFG are to:
+  <label for="name"><strong>First and last name *</strong></label><br>
+  <input type="text"
+         id="name"
+         name="Name"
+         maxlength="40"
+         required
+         style="width:100%; max-width:400px;"><br><br>
 
-- Provide opportunities for people of all faiths, or none, to meet together in fellowship, and gain knowledge, understanding and respect for each other.  
-- Celebrate the diversity of religions in Bath and the surrounding district.  
-- Demonstrate dialogue among religions in Bath and the surrounding district.  
-- Enrich the spiritual life of Bath and the surrounding district by promoting harmony between people of different faiths.  
-- Encourage public bodies, including the Council, health and educational institutions, to reflect interfaith principles in their policies and actions.  
-- Act as a resource centre for information about local faith communities.  
-- Aspire to the values and ideals set out in the Act of Commitment developed by faith communities of the UK.
+  <label for="email"><strong>E-mail *</strong></label><br>
+  <input type="email"
+         id="email"
+         name="Email"
+         required
+         style="width:100%; max-width:400px;"><br><br>
 
----
+  <label for="about">
+    <strong>Optional:</strong> would you like to tell us anything about yourself, such as your faith tradition?
+  </label><br>
+  <textarea id="about"
+            name="About"
+            maxlength="200"
+            rows="4"
+            style="width:100%; max-width:600px;"></textarea><br><br>
 
-## Membership Email Form
+  <label>
+    <input type="checkbox" name="Consent" required>
+    I confirm I support the aims of the Bath inter faith group as set out here, and wish to be a member.
+    I also agree that it is OK for Bath IFG to keep this data for the sole purpose of being in touch with me.
+    I understand I can revoke that consent at any time. *
+  </label><br><br>
 
-To join, please send an email to:
+  <button type="submit">Send membership request</button>
 
-**[secretary@BathIFG.org.uk](mailto:secretary@BathIFG.org.uk)**
+  If ths fails for any reason please just email the requested details to chair@bathifg.org.uk and secretary@bathifg.org.uk
 
-Include the following in your email:
-
-1. **First and Last Name**  
-2. **Email address**  
-3. Optional: Any information you wish to provide about yourself, such as your faith tradition  
-4. Confirmation that you support the aims of Bath IFG and wish to be a member.  
-5. Consent for Bath IFG to keep your data for the sole purpose of communicating with you. *(You can revoke consent at any time.)*
-
-*Tip:* You can copy and paste the checklist above directly into your email for convenience.
-
----
-
-We look forward to welcoming you to Bath IFG!
+</form>
