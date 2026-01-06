@@ -35,7 +35,8 @@ The aims are to:
     <label for="about">
       Optional: would you like to tell us anything about yourself, such as your faith tradition?
     </label><br>
-    <textarea id="about" name="about" maxlength="200" rows="4"></textarea>
+    <textarea id="about" name="about" maxlength="200" rows="4" style="width: 100%; height: 200px;"></textarea>
+
   </p>
 
   <p>
