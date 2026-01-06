@@ -5,19 +5,7 @@ title: Join
 
 <h1>Join Bath IFG as a member</h1>
 
-You're welcome to join Bath IFG if you agree with its aims. Members are kept informed of meetings and events, and also get to vote for officers at the AGM. Being a member entails no cost, and no obligations.
-
-The aims are to:
-
-<ul>
-  <li>provide opportunities for people of all faiths or none to meet together in fellowship, and gain knowledge, understanding and respect for each other;</li>
-  <li>celebrate the diversity of religions in Bath and the surrounding district;</li>
-  <li>demonstrate dialogue among religions in Bath and the surrounding district;</li>
-  <li>enrich the spiritual life of Bath and the surrounding district by promoting harmony between people of different faiths;</li>
-  <li>encourage public bodies, including Council, health and educational institutions, to reflect interfaith principles in their policies and actions;</li>
-  <li>act as a resource-centre for information about local faith communities; and</li>
-  <li>aspire to the values and ideals set out in the Act of Commitment developed by faith communities of the UK.</li>
-</ul>
+You're welcome to join Bath IFG if you agree with its aims (see below). Just complete and return this form. Members are kept informed of meetings and events, and also get to vote for officers at the AGM. Being a member entails no cost, and no obligations.
 
 <form action="https://formspree.io/f/abcdwxyz" method="POST">
 
@@ -60,6 +48,18 @@ The aims are to:
   and/or
   <a href="mailto:secretary@bathifg.org.uk">secretary@bathifg.org.uk</a>.
 </p>
+
+The aims are to:
+
+<ul>
+  <li>provide opportunities for people of all faiths or none to meet together in fellowship, and gain knowledge, understanding and respect for each other;</li>
+  <li>celebrate the diversity of religions in Bath and the surrounding district;</li>
+  <li>demonstrate dialogue among religions in Bath and the surrounding district;</li>
+  <li>enrich the spiritual life of Bath and the surrounding district by promoting harmony between people of different faiths;</li>
+  <li>encourage public bodies, including Council, health and educational institutions, to reflect interfaith principles in their policies and actions;</li>
+  <li>act as a resource-centre for information about local faith communities; and</li>
+  <li>aspire to the values and ideals set out in the Act of Commitment developed by faith communities of the UK.</li>
+</ul>
 
 
 
