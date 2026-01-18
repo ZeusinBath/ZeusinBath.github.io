@@ -12,12 +12,6 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ## January
 
-**22 Jan – Fun Choir Evening**  
-Time: 18:30 for 19:00  
-Led by Su Hart. All welcome.  
-Location: JCLDS Chapel, 46a Locksbrook Road  
-Contact: William Heath
-
 **27 Jan – Holocaust Memorial Day**  
 With B&NES Council  
 Location: Guildhall  
@@ -26,7 +20,7 @@ Contact: David Musgrave or Iris Segall
 **30 Jan – "Sounds Like Home" Sudafest Cultural Event**  
 Palestinian music and food  
 Location: Fairfield House, 2 Kelston Road  
-Contact: William Heath
+Contact: Sudafest or Fairfield House
 
 ---
 
@@ -39,6 +33,12 @@ Contact: Mayor's Office
 ---
 
 ## March
+
+**Th 5 March – Fun Choir Evening**  
+Time: 18:30 for 19:00  
+Led by Su Hart. All welcome.  
+Location: JCLDS Chapel, 46a Locksbrook Road  
+Contact: William Heath
 
 **11 Mar – Bath IFG AGM**  
 Time: 18:30 for 19:00  
