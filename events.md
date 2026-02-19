@@ -10,28 +10,6 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ---
 
-## January
-
-**27 Jan – Holocaust Memorial Day**  
-With B&NES Council  
-Location: Guildhall  
-Contact: David Musgrave or Iris Segall
-
-**30 Jan – "Sounds Like Home" Sudafest Cultural Event**  
-Palestinian music and food  
-Location: Fairfield House, 2 Kelston Road  
-Contact: Sudafest or Fairfield House
-
----
-
-## February
-
-**01 Feb – Mayor of Bath MultiFaith Event**  
-Location: Guildhall  
-Contact: Mayor's Office
-
----
-
 ## March
 
 **Th 5 March – Fun Choir Evening**  
