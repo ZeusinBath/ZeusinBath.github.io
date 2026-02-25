@@ -4,7 +4,6 @@ title: "Wanted: social media volunteer"
 date: 2026-02-25
 ---
 
-<h1>Wanted: social media volunteer</h1>
 
 Are you interested in matters of faith and good with social media? Bath Inter Faith Group (IFG) needs a volunteer to help with our social media. 
 
