@@ -13,4 +13,4 @@ We need someone to help us use these and other social media to connect with our 
 
 It’s fascinating work, sorely needed, at a really interesting time of rapid change in inter faith activity nationally. There promises to be plenty of interesting material to share in coming months. Basic time commitment needed probably an hour a week; more if you attend events. 
 
-If that might be you please email chair@BathIFG.org.uk
+If that might be you please email mailto:chair@BathIFG.org.uk
