@@ -2,6 +2,8 @@ title: Bath Inter Faith Group
 description: Connecting people of good faith in Bath
 theme: minima
 
+email: info@bathifg.org.uk
+
 header_pages:
   - index.md
   - news.md
@@ -9,5 +11,3 @@ header_pages:
   - principles.md
   - about.md
   - join.md
-
-  info_email: info@bathifg.org.uk
