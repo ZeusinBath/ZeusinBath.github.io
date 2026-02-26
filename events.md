@@ -27,6 +27,7 @@ Contact: Hon Secretary Jane O'Hara
 **28 Mar - Bishop Malkhaz film showing**  
 Time: from 1600
 Location: MoBA, Countess of Huntingdon’s Chapel, The Vineyards 
+
 [All welcome; free; book here](https://online1.venpos.net/VenPosJourneyUI/WebSaleItems?id=6c08f880-a19f-4492-a2ab-d47cf47b6ce4&type=WebPage&locationId=1218&mainWebPageId=6c08f880-a19f-4492-a2ab-d47cf47b6ce4&startId=6c08f880-a19f-4492-a2ab-d47cf47b6ce4)
 
 **Date TBA – Scriptural Reasoning on Death of Jesus in Bible and Quran**  
