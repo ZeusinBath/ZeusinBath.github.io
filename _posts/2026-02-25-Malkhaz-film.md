@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bishop Malkhaz Peace Project film showing in Bath: book now"
-date: 2026-02-26
+date: 2026-02-25
 ---
 
 Imagine a Christian Cathedral that responds to growing hatred and intolerance by constructing a synagogue and a mosque to bring faiths together. That's exactly what Bishop Malkhaz Songulashvili has done in Tbilisi, Georgia. 
