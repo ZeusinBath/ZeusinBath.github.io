@@ -21,4 +21,4 @@ Meanwhile in April a small group of Bath IFG members is taking a pilgrimage to T
 src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/wmheath/inter-faith-basics-bishop">
 </iframe>
 
-Eve Salomon and William Heath from Bath IFGH recorded a podcast with Bishop Malkhaz about the Peace Project: click above to hear it. 
+*Eve Salomon and William Heath from Bath IFG recorded a podcast with Bishop Malkhaz about the Peace Project: click above to hear it.*
