@@ -13,7 +13,9 @@ Now Bath IFG, in collaboration with Bath Preservation Trust, is excited to prese
 [Reserve your place here for free. Early booking recommended.](https://online1.venpos.net/VenPosJourneyUI/WebSaleItems?id=6c08f880-a19f-4492-a2ab-d47cf47b6ce4&type=WebPage&locationId=1218&mainWebPageId=6c08f880-a19f-4492-a2ab-d47cf47b6ce4&startId=6c08f880-a19f-4492-a2ab-d47cf47b6ce4)
 
 Meanwhile in April a small group of Bath IFG members is taking a pilgrimage to Tbilisi to share Easter celebrations in the Peace Project and visit sacred sites in Georgia as guests of Bishop Malkhaz. It's still possible to join us for this trip 8-15 Apr: 
-[details here](https://docs.google.com/document/d/1xX8yoiPsTYkn2oxoPZCuBeraLo_I7usGWG9uxcPGhyE/edit?tab=t.0#heading=h.tav1m0tnkjq8) Email us at the address below if interested. 
+[details here](https://docs.google.com/document/d/1xX8yoiPsTYkn2oxoPZCuBeraLo_I7usGWG9uxcPGhyE/edit?tab=t.0#heading=h.tav1m0tnkjq8) 
+
+[Email us](mailto:info@bathifg.org.uk?subject=Malkhaz%20Film%20Booking) if interested.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no"
 src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/wmheath/inter-faith-basics-bishop">
