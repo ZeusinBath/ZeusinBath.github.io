@@ -26,7 +26,8 @@ By invitation of the Mayor
 **Sat 21 March Naw-Ruz celebration**
 Time: 1530-1730
 Location: New Oriel Hall, Brookleaze Buildings, Larkhall, Bath, BAI 6RA
-The local Ba'hai community extends an invitation to all to join in the celebration of Naw-Ruz. Free
+The local Ba'hai community extends an invitation to all to join in the celebration of Naw-Ruz. 
+Free. [Book on Eventbrite](https://www.eventbrite.co.uk/e/naw-ruz-celebration-tickets-1982770213082?aff%27=oddtdtcreator)
 Contact: Jane O'Hara
 
 **Wed 25 Mar**
