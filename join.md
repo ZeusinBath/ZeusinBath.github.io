@@ -9,6 +9,10 @@ You're welcome to join Bath IFG if you agree with its aims (see below). Just com
 
 <form action="https://formspree.io/f/mgovrnba" method="POST">
 
+<input type="hidden" name="_subject" value="Bath IFG Membership Request">
+
+<input type="text" name="_gotcha" style="display:none">
+
   <p>
     <label for="name">First and last name *</label><br>
     <input type="text" id="name" name="name" maxlength="40" required>
