@@ -7,7 +7,7 @@ title: Join
 
 You're welcome to join Bath IFG if you agree with its aims (see below). Just complete and return this form. Members are kept informed of meetings and events, and also get to vote for officers at the AGM. Being a member entails no cost, and no obligations.
 
-<form action="https://formspree.io/f/abcdwxyz" method="POST">
+<form action="https://formspree.io/f/mgovrnba" method="POST">
 
   <p>
     <label for="name">First and last name *</label><br>
