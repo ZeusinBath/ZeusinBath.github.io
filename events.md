@@ -12,11 +12,6 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ## March
 
-**11 Mar – Bath IFG AGM**  
-Time: 18:30 for 19:00  
-Location: JCLDS Chapel, 46a Locksbrook Road (park behind chapel)
-All members welcome  
-Email: <info@bathifg.org.uk>
 
 **Th 5 March – Marking Lent Eid and Chinese New Year**  
 Time: 1400-1700
