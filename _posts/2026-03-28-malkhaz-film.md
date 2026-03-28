@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Film showing: I Will Build This World From Love"
-date: 2026-03-14
+date: 2026-03-28
 ---
 
 Bath Inter Faith Group (IFG) and Bath Preservation Trust collaborated to present a special showing of the film <i>I Will Build This World From Love</i> at the Countes of Huntingford Chapel on 28 March. 
