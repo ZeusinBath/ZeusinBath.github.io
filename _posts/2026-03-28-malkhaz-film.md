@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Film showing: <i>I Will Build This World From Love"</i>
+title: "Film showing: <i>I Will Build This World From Love</i>"
 date: 2026-03-28
 ---
 
