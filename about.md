@@ -19,9 +19,9 @@ Chair: William Heath chair@BathIFG.org.uk
 
 Vice chair: Narinder Tegally vicechair@BathIFG.org.uk
 
-Secretary: Jane O’Hara secretary@BathIFG.org.uk
+Secretary: David Musgrave secretary@BathIFG.org.uk
 
-Treasurer: Iris Segall treasurer@BathIFG.org.uk
+Treasurer: Charles Bleakley treasurer@BathIFG.org.uk
 
 General enquiries: info@BathIFG.org.uk
 
