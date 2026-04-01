@@ -10,4 +10,6 @@ header_pages:
   - events.md
   - principles.md
   - about.md
+  - title: "Search"
+  url: /search/
   - join.md
