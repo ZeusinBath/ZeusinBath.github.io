@@ -10,7 +10,7 @@ Dr Pankhania’s resignation follows ill-advised and unacceptable social media a
 
 We reject anything that stereotypes or demeans people, or which inspires hatred and dehumanisation. This includes antisemitism and islamophobia, other forms of racism, misogyny and homophobia. We must all do more to confront racism and be alert to our own prejudice and the unconscious bias we all hold. 
 
-Feelings are running high in the wake of this episode and resignation. We cannot undo what has happened or govern how people feel about it. We must look for practical ways we can build bridges and contribute to peace and harmonious living in diverse communities. That means practical steps that can inform and educate, and help avoid such situations in future. This could include learning more about examples where different faiths and cultures work well together, learning how to handle important but difficult conversations better and learning to listen better to each other. 
+Feelings are running high in the wake of this episode and resignation. We cannot undo what has happened or govern how people feel about it. We must look for practical ways we can build bridges and contribute to peace and harmonious living in diverse communities. That means practical steps that can inform and educate, and help avoid such situations in the future. This could include learning more about examples where different faiths and cultures work well together, learning how to handle important but difficult conversations better and learning to listen better to each other. 
 
 Bath IFG works to promote peace, cooperation and mutual respect. We hope that in time there will be learning, greater empathy and understanding, so that in our diversity we get to know ourselves and each other better.
 
