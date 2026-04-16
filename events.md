@@ -19,6 +19,14 @@ Contact: William Heath
 
 ---
 
+## May
+
+**Th 14 May Feedback from Tbilisi**
+
+Location: Fairfield House, 2 Kelston Road 
+Participants in the pilgrimage and visit to the Peace Cathedral will be sharing their experience, with film and photos
+Email: <chair@bathifg.org.uk>
+
 ## June
 
 **24 Jun – Bath IFG Midsummer Picnic and Social**  
