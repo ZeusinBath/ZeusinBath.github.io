@@ -12,10 +12,10 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ## April
 
-**08–15 Apr – Bath IFG Pilgrimage to Tbilisi, Georgia**  
-We will be guests of Archbishop Malkhaz Sogulashvili  
-Booking deadline: 28 Feb
-Contact: William Heath
+**21 April 1930-2100 Coming together in conversation**  
+What does peace look like to you?
+Southdown Methodist Church
+Contact: Jane O'Hara
 
 ---
 
