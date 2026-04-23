@@ -12,10 +12,9 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ## April
 
-**21 April 1930-2100 Coming together in conversation**  
-What does peace look like to you?
-Southdown Methodist Church
-Contact: Jane O'Hara
+**Th 30 Apr 1400-1600**
+A Common Word  - webinar with guest speakers Revd Dr Peter Colwell (CTBI) and Shaykh Ibrahim Mogra. Organised by Christian Muslim Forum. 
+To register email Shenaz director@christianmuslimforum.org
 
 ---
 
