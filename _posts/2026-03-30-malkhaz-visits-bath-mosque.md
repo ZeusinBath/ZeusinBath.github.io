@@ -10,7 +10,7 @@ Bishop Malkhaz Songulashvili, who created the Peace Project in Tbilisi Georgia, 
 
 <i>Bishop Malkhaz with the Bath Mosque community</i>
 
-The [Peace Project](https://peacecathedraltbilisi.org/the-peace-project/) combines a Christian Baptist Cathedral with a Mosque, Synagogue, Buddhist prayer room and chapel for people of all faiths and none. It has the effect of bringing together and liberalising the associated communities. Women are admitted to the Mosque, for example, and have touched and read froim the Torah for the first time in the long history of Jews in Georgia. 
+The [Peace Project](https://peacecathedraltbilisi.org/the-peace-project/) combines a Christian Baptist Cathedral with a Mosque, Synagogue, Buddhist prayer room and chapel for people of all faiths and none. It has the effect of bringing together and liberalising the associated communities. Women are admitted to the Mosque, for example, and have touched and read from the Torah for the first time in the long history of Jews in Georgia. 
 
 
 ![Image description / Bishop Malkhaz and Imam Mohammed](/assets/images/malkhaz-mohammed.jpg)
