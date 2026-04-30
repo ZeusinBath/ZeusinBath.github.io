@@ -8,6 +8,5 @@ layout: page
 
 
 
-Since 1990, Bath Inter Faith Group (IFG) has been working across the city to promote peace, cooperation and mutual respect among religious groups.
+Since 1990, Bath Inter Faith Group (IFG) has been working across the city to promote peace, cooperation and mutual respect among religious groups. Inter Faith work needs listening, respect, and growing friendship. Bath IFG aims to be an authentic voice of good faith in Bath. 
 
-Bath IFG extends and celebrates friendship across a wide community of all faiths and diverse spiritualities. We respect, are curious about, and seek to understand each other’s differences and commonalities. We aim to be visible, reliable and authentic advocates for matters of conscience and faith.
