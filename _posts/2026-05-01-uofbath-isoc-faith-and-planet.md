@@ -15,6 +15,6 @@ Both speakers affirmed that the environmental crisis is spiritual, ethical, and 
 
 The Q&A session was good, challenging, and engaging, with participants drawing connections between the two faith perspectives, probing the causes of ongoing exploitation, and reflecting on how conviction, humility, and stewardship might be nurtured at both personal and institutional levels. The questions demonstrated serious engagement and a willingness to wrestle with difficult issues rather than seeking easy answers.
 
-"Report by Narinder Tegally"
-
 The dialogue offered a powerful example of interfaith engagement rooted in shared concern for the planet and for human dignity. It affirmed that faith communities have an essential role to play not only in articulating ethical principles, but in shaping conviction, character, and action for the long-term wellbeing of our world.
+
+*Report by Narinder Tegally*
