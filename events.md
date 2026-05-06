@@ -20,10 +20,17 @@ To register email Shenaz director@christianmuslimforum.org
 
 ## May
 
-**Th 14 May Feedback from Tbilisi**
+**Th 14 May Sacred Springs to Mountain Monasteries**
 
 Location: Fairfield House, 2 Kelston Road 
-Participants in the pilgrimage and visit to the Peace Cathedral will be sharing their experience, with film and photos
+Participants in the Bath IFG pilgrimage to the Peace Project, Tbilisi Georgia share their experience, with film and photos
+Email: <chair@bathifg.org.uk>
+
+**Fri 15 May Sumud in humanity - Nakba Remembrance Day**
+
+Location: Museum of Bath Architecture, Countess of Huntingdon’s Chapel, The Paragon, Bath BA1 5NA
+Live stream of Combatants for Peace 7th Nakba Day Remembrance.  
+[Places limited: book here - suggested donation £5-10](https://www.eventbrite.co.uk/e/sumud-in-humanity-tickets-1988824708240)
 Email: <chair@bathifg.org.uk>
 
 ## June
