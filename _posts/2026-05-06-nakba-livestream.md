@@ -1,6 +1,6 @@
 ---
 title: "Bath IFG to live stream Nakba Remembrance Ceremony"
-date: 2026-05-07
+date: 2026-05-06
 layout: post
 ---
 
@@ -18,6 +18,6 @@ Organised by [Combatants for Peace](https://www.cfpeace.org/) the theme of Nakba
 
 The intention of the event is to improve understanding of the lived experiences and historical narratives of both societies. The organisers hold that this is essential to breaking the cycle of violence and building a different future. It reflects a commitment to justice, acknowledgment, and accountability, and affirms that true peace can only emerge when all people are free and the humanity of every individual is upheld without exception.
 
-We're grateful to Bath Preservation Trust for hosting the event. 
+We're grateful to Bath Preservation Trust for hosting the live stream event. 
 
 [Book your place here](https://www.eventbrite.co.uk/e/sumud-in-humanity-tickets-1988824708240?aff=ebdsoporgprofile)
