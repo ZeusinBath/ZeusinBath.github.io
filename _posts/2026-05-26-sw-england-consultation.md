@@ -1,0 +1,13 @@
+---
+title: "Bath IFG hosts SW England consultation on national future of inter faith work"
+date: 2026-05-26
+layout: post
+tags: []
+---
+
+## Bath IFG hosts SW England consultation on national future of inter faith work
+
+Bath IFG hosted inter faith leaders from across SW England as part of a national consultation on the future of interfaith work. A dozen delegates from Devon, Bath, Bristol, and surrounds considered what interfaith activities work, what is having positive impact, where national resources might be focussed and prioritised and how to attract others into inter faith work. 
+We met in an unseasonal May heatwave in the peaceful surroundings of a Victorian threshing barn on Kelston Roundhill. Some delegates undertook a hot walk to the top of the Kelston Roundhill to appreciate distant views of Wales, Bristol and Bath and the Marlborough Downs. We shared lunch with local cheeses and strawberries. 
+The outputs of the day will feed into a national process which will help determine the future of inter faith work in the UK. 
+
