@@ -18,5 +18,5 @@ We met in an unseasonal May heatwave in the peaceful surroundings of a Victorian
 The outputs of the day will feed into a national process which will help determine the future of interfaith work in the UK. 
 
 
-![Image Some of the delegates braved the extreme heatwave to climb to the top of Kelston Roundhill and enjoy the extensive views](assets/images/SW Eng interfaith up hill.jpg)
+![Image Some of the delegates braved the extreme heatwave to climb to the top of Kelston Roundhill and enjoy the extensive views](assets/images/sw-eng-interfaith-uphill.jpg)
 
