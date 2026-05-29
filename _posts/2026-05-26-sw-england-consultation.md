@@ -9,7 +9,7 @@ Bath IFG hosted interfaith leaders from across SW England as part of a national 
 
 A dozen delegates from Devon, Bath, Bristol, and surrounds considered what interfaith activities work, what is having positive impact, where national resources might be focussed and prioritised and how to attract others into interfaith work. 
 
-![Image Inter faith specialists from across SW England gathered at Kelston Roundhill Barn](assets/images/SW Eng interfaith - group.jpg)
+![Image Inter faith specialists from across SW England gathered at Kelston Roundhill Barn](assets/images/sw-eng-interfaith-group.jpg)
 
 *Inter faith specialists from across SW England gathered at Kelston Roundhill Barn in May 2026*
 
