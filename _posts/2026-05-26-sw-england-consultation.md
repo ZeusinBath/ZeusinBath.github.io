@@ -13,7 +13,7 @@ A dozen delegates from Devon, Bath, Bristol, and surrounds considered what inter
 
 *Inter faith specialists from across SW England gathered at Kelston Roundhill Barn in May 2026*
 
-We met in an unseasonal May heatwave in the peaceful surroundings of a Victorian threshing barn on Kelston Roundhill. Some delegates undertook a hot walk to the top of the Kelston Roundhill to appreciate distant views of Wales, Bristol and Bath and the Marlborough Downs. We shared lunch with local cheeses and strawberries. 
+We met in an unseasonal May heatwave in the peaceful surroundings of a Victorian threshing barn on Kelston Roundhill. Some delegates undertook a hot walk to the top of the Kelston Roundhill to appreciate distant views of Wales, Bristol and Bath and the Marlborough Downs. We shared lunch with local cheeses and strawberries.   
 
 The outputs of the day will feed into a national process which will help determine the future of interfaith work in the UK. 
 
