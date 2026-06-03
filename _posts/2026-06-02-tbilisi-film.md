@@ -1,6 +1,6 @@
 ---
 title: "New film describes Bath IFG pilgrimage to Tbilisi Georgia"
-date: 2026-06-03
+date: 2026-06-02
 layout: post
 tags: []
 ---
