@@ -15,7 +15,7 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 **Wed 24 Jun – Bath IFG Midsummer Picnic and Social**  
 Location: Roundhill Barn, Kelston  
-Email: <chair@bathifg.org.uk>
+Email: <mailto:chair@bathifg.org.uk>
 
 **Fri 26 Jun – Difficult conversations training (with Leon Dundas)**  
 
