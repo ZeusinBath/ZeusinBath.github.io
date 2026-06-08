@@ -19,7 +19,8 @@ Email: <chair@bathifg.org.uk>
 
 **Fri 26 Jun – Difficult conversations training (with Leon Dundas)**  
 
-[Book here (suggested donation £10)]([https://example.com](https://www.eventbrite.co.uk/e/difficult-conversations-an-introduction-tickets-1991321801112)
+[Book here - suggested donation £10](https://www.eventbrite.co.uk/e/difficult-conversations-an-introduction-tickets-1991321801112)
+
 Email: <secretary@bathifg.org.uk>
 
 
