@@ -13,7 +13,12 @@ Here are the confirmed and planned events for 2026. All members and interested f
 ## July 
 
 **Tue 14 July 1700-2000 The Shared Table**
-Food for thought, with Bath Spa Universit: creativity, community and conversation about faith, food and sustainability. At Kelston Roundhill Barn. Booking details TBC
+Food for thought, with Bath Spa Universit: creativity, community and conversation about faith, food and sustainability. At Kelston Roundhill Barn. Booking details TBC 
+Email: <chair@bathifg.org.uk>
+
+**Th 30 July Drawing room conversation**
+By invitation. Provisional theme: “Faith and sexuality”. 
+Email: <secretary@bathifg.org.uk>
 
 ---
 
