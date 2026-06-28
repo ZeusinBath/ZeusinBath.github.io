@@ -10,19 +10,10 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ---
 
-## June
+## July 
 
-**DEFERRED Wed 24 Jun – Bath IFG Midsummer Picnic and Social**  
-This event is deferred owing to Met Office red weather alert. Revised date TBA. Location: Roundhill Barn, Kelston  
-Email: <mailto:chair@bathifg.org.uk>
-
-**Fri 26 Jun – Difficult conversations training (with Leon Dundas)**  
-
-[Book here - suggested donation £10](https://www.eventbrite.co.uk/e/difficult-conversations-an-introduction-tickets-1991321801112)
-Email: <secretary@bathifg.org.uk>
-
-
-**Date TBA – Bath IFG Meets its Patron, the New Mayor**  
+**Tue 14 July 1700-2000 The Shared Table**
+Food for thought, with Bath Spa Universit: creativity, community and conversation about faith, food and sustainability. At Kelston Roundhill Barn. Booking details TBC
 
 ---
 
