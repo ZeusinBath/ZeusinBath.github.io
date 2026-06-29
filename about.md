@@ -37,8 +37,6 @@ William Heath - Quaker
 
 Rupert Kaye - Methodist
 
-Lisa Loveridge - Inter faith chaplain
-
 Matt McCabe - Druid
 
 Jane O’Hara - Bah'ai
