@@ -1,11 +1,11 @@
 ---
-title: "Getting to grips with Difficiult Conversations"
+title: "Getting to grips with Difficult Conversations"
 date: 2026-07-02
 layout: post
 tags: []
 ---
 
-## Getting to grips with Difficiult Conversations
+## Getting to grips with Difficult Conversations
 
 [Elif Shafak argued recently in The Guardian](https://www.theguardian.com/commentisfree/2026/jun/27/people-britain-disagree-brexit-divided) that in Britain we no longer dare to talk about difficult things. The Bath Inter Faith Group (IFG) feels the same.
 
