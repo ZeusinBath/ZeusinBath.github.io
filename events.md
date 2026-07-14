@@ -12,8 +12,8 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ## July 
 
-**Tue 14 July 1700-2000 The Shared Table**
-Food for thought, with Bath Spa Universit: creativity, community and conversation about faith, food and sustainability. At Kelston Roundhill Barn. Booking link  [BathIFG-SharedTable](https://tinyurl.com/BathIFG-SharedTable)
+**NB the Shared Table event scheduled for 14 July is deferred**
+With regret we have had to postpone the Shared Table event planned for Tuesday next at Kelston Roundhill Barn.  We hope soon to be able to announce a new date for the autumn. Please pass this message to anyone you are aware of, who may have intended to go.
 
 Email: <chair@bathifg.org.uk>
 
