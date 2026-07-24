@@ -5,7 +5,7 @@ layout: post
 tags: []
 ---
 
-## Title
+## Bath IFG welcomes guests to summer social
 
 Bath IFG was delighted to welcome guests to its summer social for conversation, companionship and shared food at Kelston Roundhill Barn this week. This was the event delayed from June owing to exceptional heatwave.
 
