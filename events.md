@@ -10,16 +10,6 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ---
 
-**Wednesday 22 July from 1730** 
-Bath IFG Summer Social at Kelston Roundhill Barn (directions https://www.roundhillbarn.com/findcontact-us )
-Light refreshments provided. Free.  [Reserve a place here](https://tinyurl.com/BathIFG-social)
-
-**Th 30 July Drawing room conversation**
-By invitation. Provisional theme: “Faith and sexuality”. 
-Email: <secretary@bathifg.org.uk>
-
----
-
 ## September
 
 **13 Sep – Local Walking Pilgrimage**  
