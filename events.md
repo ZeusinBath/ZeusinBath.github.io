@@ -35,3 +35,6 @@ This is to commemorate the 90th anniversary of the HIM Emperor Haile Selassie I 
 Words, music and food  
 Location: Christ Church  
 Email: <info@bathifg.org.uk>
+
+**Wed 25 Nov 1800 "Leap of Faith" fostering project plenary meeting**
+Chance for potential foster parents of many faith traditions to meet B&NES fostering team, learn more and have questions answered. Venue TBA. 
