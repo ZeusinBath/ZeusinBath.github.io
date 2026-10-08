@@ -13,7 +13,7 @@ title: About
 - act as a resource centre for information about local faith communities
 - aspire to the values and ideals set out in the millennial Act of Commitment developed by faith communities of the UK
 
-## Officers
+## Elected Officers for 2026/2027
 
 Chair: William Heath chair@BathIFG.org.uk
 
@@ -27,17 +27,17 @@ General enquiries: info@BathIFG.org.uk
 
 ## Executive Committee 
 
-Aiham Al Aswadi - Muslim
-
 Ras Benji Haile Selassie - Rastafari and Ethiopian Orthodox
 
 Charles Bleakley - Church of Jesus Christ of Latter-day Saints
 
 William Heath - Quaker
 
-Rupert Kaye - Methodist
-
 Matt McCabe - Druid
+
+Jan Moysa - Buddhist
+
+David Musgrave (Chair Emeritus) - Methodist 
 
 Jane O’Hara - Bah'ai
 
@@ -47,4 +47,8 @@ Isabel Russo - Humanist
 
 Iris Segall - Jewish
 
-Narinder Tegally - CofE Christian
+Revd Heather Smith Sargeant - CofE Christian
+
+Ian Spence (Univ of Bath Faith Leader) - Baptist Christian
+
+Narinder Tegally (RUH Chaplain, diocesan inter faith lead and deputy Lord Lieutenant) - CofE Christian
