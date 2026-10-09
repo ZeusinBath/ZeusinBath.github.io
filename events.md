@@ -37,4 +37,7 @@ Location: Christ Church
 Email: <info@bathifg.org.uk>
 
 **Wed 25 Nov 1800 "Leap of Faith" fostering project plenary meeting**
-Chance for potential foster parents of many faith traditions to meet B&NES fostering team, learn more and have questions answered. Venue TBA. 
+Meet at the Church of Our Lady & St Alphege, Oldfield Ln, Bath BA2 3NR
+This exceptionally beautiful church was built in the 1920s by Sir Giles Gilbert Scott, architect of Liverpool Cathedral who also designed the iconic red phone box. We meet there at the invitation of Mgr Robert Corrigan. 
+
+Email chair@bathifg.org.uk with queries, if you plan to come, need a lift or can offer lifts to others, have any experience of fostering or know of any potential foster carers we could invite.
