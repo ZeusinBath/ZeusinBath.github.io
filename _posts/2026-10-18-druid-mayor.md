@@ -1,6 +1,6 @@
 ---
 title: "Mayor's theme: a Druid perspective"
-date: 2026-05-07
+date: 2026-10-18
 layout: post
 tags: []
 ---
