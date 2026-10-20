@@ -9,6 +9,11 @@ tags: []
 
 *Bath IFG members were invited to respond from different faith perspectives to the Mayor's theme for 2026 "celebrating culture, community and curiosity". Matt McCabe contributed from the Druid tradition:*
 
+
+![Image Matt McCabe is Pendragon of British Druids](/assets/images/matt.jpg)
+
+*Matt McCabe is the Pendragon of British Druids*
+
 In Druidry we are asked how we will be of service to our community. For some that means their Druid community, but for others that means the community they live in. I am obviously one of the latter, serving as a local councillor.
 
 I believe that the ability to be endlessly curious about the world and all those who dwell here, is one of our greatest strengths as human beings.
