@@ -35,5 +35,5 @@ Carolyn shared the academic [Speed Leas’ “levels of conflict” model](https
 
 In conclusion: there are plenty of ways to learn more about how to use conflict skillfully as a way for growth and deeper understanding. We need to continue to learn them and to be able to share these lessons.
 
-*Ammerdown continues to run its Living Well with Conflict series. Next one [*Dealing with Challenging Behaviours in Conflict* is Th 5 Nov](https://www.ammerdown.org/WhatsOn/2463-/Living-Well-with-Conflict---Dealing-with-Challenging-Behaviours-in-Conflict).* 
+*Ammerdown continues to run its Living Well with Conflict series. Next one [*Dealing with Challenging Behaviours in Conflict* is Th 5 Nov](https://www.ammerdown.org/WhatsOn/2463-/Living-Well-with-Conflict---Dealing-with-Challenging-Behaviours-in-Conflict).*    
 
