@@ -1,11 +1,9 @@
 ---
-title: "Difficult conversations; learning at Ammerdown"
+title: "Difficult conversations; learning more at Ammerdown"
 date: 2026-10-22
 layout: post
 tags: []
 ---
-
-## Difficult conversations: learning more at Ammerdown
 
 *Continuing our series on how to become more skillful with difficult conversations and get the best out of conflict.*
 
