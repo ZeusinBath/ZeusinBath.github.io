@@ -1,6 +1,6 @@
 ---
 title: "Difficult conversations; learning at Ammerdown"
-date: 2026-10-21
+date: 2026-10-22
 layout: post
 tags: []
 ---
@@ -24,6 +24,10 @@ Bath IFG is a member of the international organistion United Religions Initiativ
 Meanwhile Bath IFG developed its [own programme delivered as an online course by Leon Dundas](https://www.bathifg.org.uk/2026/07/02/difficult-conversations.html). Leon's unique experience and approach meant this was very highly rated by all participants. 
 
 Most recently some of attended a workshop *Living Well with Conflict: Dealing with Challenging Conversations* workshop. This was delivered by Carolyn Merry, director of [our excellent local multi faith centre Ammerdown](https://www.ammerdown.org/). 
+
+![Carolyn Merry delivers conflict and conversation training at Ammerdown](/assets/images/ammerd-cropped.jpg)
+
+*Ammerdown director Carolyn Merry delivers conflict and conversation training.*
 
 This session was confidently set in a broader formal academic context. Most delegates initially thought of conflict as something to try to manage. But it's better if it’s resolved, and best of all if we can successfully use it as a means of effective transformation and growth. 
 
