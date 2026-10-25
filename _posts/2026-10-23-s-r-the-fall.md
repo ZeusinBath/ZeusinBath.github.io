@@ -11,7 +11,7 @@ Bath IFG held the first in this season's sessions of Scriptural Reasoning. Under
 
 *The University of Bath Coordinating Faith Leader Revd Ian Spence invites Imam Mohammed Gamal to introduce Scriptural Reasoning*
 
-Imam Mohammed Gamal gave a broad introduction to the process of Scriptural Reasoning. Dating from the 1990s, it's an accessible practice which invites people to read each others' sacred texts with curiosity, honesty and respect. It's not a sermon, not a debate, not a search for consensus or attempt to diminish difference, but rather a process to help us better understand other, and to understand our own traditions better also. 
+Imam Mohammed Gamal gave a broad introduction to the process of Scriptural Reasoning. Dating from the 1990s, it's an accessible practice which invites people to read each others' sacred texts with curiosity, honesty and respect. It's not a sermon, not a debate, not a search for consensus or attempt to diminish difference, but rather a process to help us better understand each other, and to understand our own traditions better also. 
 
 ![Bath IFG members and guests during a close reading of different texts of the Fall in the Garden of Eden](/assets/images/ifg-members-reasoning.jpg)
 
