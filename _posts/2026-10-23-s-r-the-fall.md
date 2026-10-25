@@ -15,8 +15,8 @@ Imam Mohammed Gamal gave a broad introduction to the process of Scriptural Reaso
 
 ![Bath IFG members and guests during a close reading of different texts of the Fall in the Garden of Eden](/assets/images/ifg-members-reasoning.jpg)
 
-*Bath IFG members and guests during a close reading of different texts of the Fall in the Garden of Eden*
+*Bath IFG members and guests during a close reading of the story of the Garden of Eden.*
 
-We discussed the Eden story - the Fall - from Christian, Hebrew and Islamic texts. The nuances are different and the story itself is surprising. The texts merit close scrutiny jointly and severally. 
+We discussed the Garden of Eden story from Christian, Jewish and Islamic texts under the title "The Fall, Mercy and Human Responsibility". The nuances are different and the story itself is surprising. We heard that Jewish and to some extent Islamic traditions do not share the Christian understanding of "fall". We found that the texts merit close scrutiny, both jointly and severally. 
 
 [To hear of upcoming dates join Bath IFG here](https://www.bathifg.org.uk/join.html); it's quick and easy to do, and entails no cost or obligations. 
