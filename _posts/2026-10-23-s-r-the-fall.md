@@ -1,11 +1,11 @@
 ---
-title: "Scriptural Reasoning: the Fall"
+title: "Scriptural Reasoning: the fall, mercy and human responsibility"
 date: 2026-10-23
 layout: post
 tags: []
 ---
 
-Bath IFG held the first in this season's sessions of Scriptural Reasoning. It took place 20 Oct at the University of Bath, hosted by the University's Coordinating Faith Leader Revd Ian Spence.
+Bath IFG held the first in this season's sessions of Scriptural Reasoning. Under the title "the fall, mercy and human responsibility" it took place 20 Oct at the University of Bath, hosted by the University's Coordinating Faith Leader Revd Ian Spence.
 
 ![University's Coordinating Faith Leader Revd Ian Spence erlcomes Imam Mohammed Gamal](/assets/images/ian-welcomes-imam.jpg)
 
