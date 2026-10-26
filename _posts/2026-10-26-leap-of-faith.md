@@ -9,7 +9,9 @@ There are children in our community who lack safe homes: someone who listens, ro
 
 “It’s a leap of faith”, as one Bath carer said. “But you’re part of a team.”
 
-Bath IFG is reaching out via faith leaders and organisations to people of good faith who might consider fostering. You’re invited to a special evening to hear from carers, siblings, children who have benefitted from fostering. You can meet B&NES’ excellent and highly motivated fostering team.
+Bath IFG is reaching out via faith leaders and organisations to people of good faith who might consider fostering. You’re invited to a special evening to hear from carers, siblings, children who have benefitted from fostering. 
+
+You'll need a spare bedroom. You can meet B&NES’ excellent and highly motivated fostering team. They can talk you through the rest.
 
 [Sign up here (essential for numbers and contact details)](https://www.eventbrite.com/e/bath-ifg-invites-you-to-take-a-leap-of-faith-consider-fostering-tickets-2003906123158?aff=oddtdtcreator)
 
