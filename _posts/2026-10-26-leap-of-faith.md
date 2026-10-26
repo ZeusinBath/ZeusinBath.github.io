@@ -14,7 +14,9 @@ Bath IFG is reaching out via faith leaders and organisations to people of good f
 [Sign up here (essential for numbers and contact details)](https://www.eventbrite.com/e/bath-ifg-invites-you-to-take-a-leap-of-faith-consider-fostering-tickets-2003906123158?aff=oddtdtcreator)
 
 **Date:** Wed 25 Nov
+
 **Time:** 1800 for 1830 start to 2000
+
 **Place:** Church hall, Our Lady & St Alphege, Oldfield
 
 Simple refreshments provided (soup, cheese and rolls)
