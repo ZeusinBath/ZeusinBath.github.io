@@ -20,6 +20,7 @@ Location: Christ Church, Julian Road Bath
 Email: <info@bathifg.org.uk>
 
 **Wed 25 Nov 1800 "Leap of Faith" fostering project plenary meeting**
-Our Lady & St Alphege church hall, Oldfield Ln, Bath BA2 3NR
-All who want to learn more about fostering welcome
-Email chair@bathifg.org.uk with queries, if you plan to come, need a lift or can offer lifts to others.
+Church Hall of Our Lady & St Alphege church hall, Oldfield Ln, Bath BA2 3NR
+Event for anyone who might consider fostering. Hear from a range of people involved in aspects of fostering. Ask questions, meet the B&NES team. Refreshments provided. 
+[Registration here](https://www.eventbrite.com/e/bath-ifg-invites-you-to-take-a-leap-of-faith-consider-fostering-tickets-2003906123158)
+Enquiries Email chair@bathifg.org.
