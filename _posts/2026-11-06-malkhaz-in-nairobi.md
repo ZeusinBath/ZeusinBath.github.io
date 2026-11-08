@@ -1,5 +1,5 @@
 ---
-title: "Message of inclusive Christianity reaches global forum with Bath IFG film"
+title: "Message of inclusive Christianity reaches global forum - with Bath IFG film"
 date: 2026-11-06
 layout: post
 tags: []
