@@ -5,15 +5,15 @@ layout: post
 tags: []
 ---
 
-The radically inclusive, welcoming and liberalising Christianity which inspired a Bath IFG group when we visited Tbilisi Georgia recently was this week presented and discussed on a global stage of distinguished theologians. 
+The radically inclusive, welcoming and liberalising Christianity which inspired a Bath IFG group when we visited Tbilisi Georgia recently was this week presented and discussed on a global stage of senior Christian theologians. 
 
 The occasion was the [Global Forum of Theological Educators](https://gfte.org/). This distinguished group of theological leaders from every Christian tradition - Orthodox, Roman Catholic, Historical Protestant, Evangelical, Pentecostal, and independent - met in Nairobi Kenya 4-6 Nov for a conference entitled *Doing theological education together*. 
 
-They invited as a keynote sessions speaker Malkaz Songulashvili, Metropolitan Bishop of Tbilisi, who hosted the Bath IFG visit to Tbilisi. He was perhaps a surprising choice, given the GFTE is a considered a generally conservative gathering. As part of his presentation - titled *Building Bridges that Last* - he showed [a nine-minute edit of the film made of the Bath IFG trip by Errol Russo - see it here](https://www.youtube.com/watch?v=45lHy-gaLBk).
+They invited as a keynote speaker Malkaz Songulashvili, Metropolitan Bishop of Tbilisi, who hosted the Bath IFG visit to Tbilisi. He was perhaps a surprising choice, given the GFTE is a considered a generally conservative gathering. As part of his presentation - titled *Building Bridges that Last* - he showed [a nine-minute edit of the film made of the Bath IFG trip by Errol Russo - see it here](https://www.youtube.com/watch?v=45lHy-gaLBk).
 
-His talk was followed by responses from the Australian Pentecostal theologian Dr Clayton Coombs, the American Catholic [Prof Anathea Portier-Young](https://divinity.duke.edu/faculty/anathea-portier-young) and Orthodox priest from Kenya [Fr Dr Evangelos Thiani](https://www.researchgate.net/profile/Fr-Dr-Evangelos-Thiani) and then general discussion.
+His talk was followed by responses from the Australian Pentecostal theologian Dr Clayton Coombs, the American Catholic [Prof Anathea Portier-Young](https://divinity.duke.edu/faculty/anathea-portier-young) and [Fr Dr Evangelos Thiani](https://www.researchgate.net/profile/Fr-Dr-Evangelos-Thiani), an Orthodox priest from Kenya. There followed general discussion.
 
-While we don't yet know the full impact of the session, Bath IFG is delighted to have helped in a small way to bring Bishop Malkhaz' progressive and liberalising message to this important forum. The full text of Bishop Malkhaz’ talk is below. 
+While we don't yet know the full impact of the session, Bath IFG is delighted to have helped in a small way to bring Bishop Malkhaz' progressive and liberalising vision to this important forum. The full text of Bishop Malkhaz’ talk is below. 
 
 
 
