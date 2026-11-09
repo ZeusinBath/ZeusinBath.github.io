@@ -7,7 +7,7 @@ tags: []
 
 by Narinder Tegally
 
-*Prebendary Narinder Tegally, lead chaplain at the Royal United Hospital in Bath, Deputy Lord Lietenant of Somerset and diocesan inter faith adviser serves as vice chair of the Bath Inter Faith Group.*
+*Revd Prebendary Narinder Tegally, lead chaplain at the Royal United Hospital in Bath, Deputy Lord Lietenant of Somerset and diocesan inter faith adviser serves as vice chair of the Bath Inter Faith Group.*
 
 I was born in Hoshiarpur, Punjab, India, and raised in a Sikh family where faith was woven into everyday life, expressed through worship, hospitality, service, justice and care for the community. I came to England with my parents when I was seven. Growing up between cultures and faiths was not always easy. I experienced racism and often struggled with a sense of belonging. Later, through the kindness of people who noticed me, listened to me and made space for me, I found my way into the Christian faith and eventually into ordained ministry.
 
