@@ -25,6 +25,6 @@ The afternoon was rounded off with a generous meal served by the highly competen
 
 ![Image alt text](/assets/images/ifw-gudwara-meal.jpg)
 
-*Thank you to the organisers, speakers, and all those giving selfless service at the Nishkam Centre.*
+*Thank you to the organisers, speakers, and all those giving selfless service at the Nishkam Centre.* All photos - Ajit Singh, Nishkam Centre 
 
 ![Image alt text](/assets/images/ifw-nishkam-night.jpg)
