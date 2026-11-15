@@ -5,12 +5,6 @@ layout: post
 tags: []
 ---
 
-
-[Example link](https://example.com)
-
-![Image alt text](/assets/images/example.jpg)
-
-
 [Inter Faith Week 2026](https://www.interfaithweek.org/) launched on 3 Nov with an exhibition, music, talks and generous welcoming hospitality at the [Nishkam Centre in Handsworth, Birmingham](https://ncauk.org/). The theme for this year’s Inter Faith Week is *Lighting the Way for a Shared Future*.
 
 ![Image alt text](/assets/images/ifw-nishkam-reception.jpg)
