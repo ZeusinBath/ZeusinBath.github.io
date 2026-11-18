@@ -12,12 +12,10 @@ Here are the confirmed and planned events for 2026. All members and interested f
 
 ## November
 
-**08–15 Nov – National Interfaith Week**  
 
-**17 Nov 1900-2130 – Spirit of Peace Event**  
-Words, music and food = all Welcome
-Location: Christ Church, Julian Road Bath
-Email: <info@bathifg.org.uk>
+**Tue 24 Nov 1400-1600 Mitzvah Day Get-Well Card Making**
+Manvers Street Baptist Church.
+This is a joint Bath Inter Faith Group (IFG) and Bath Welcomes Refugees (BWR) drop-in event to make get-well cards for people who will be spending time at the RUH. [More about Mitzvah Day here](https://mitzvahday.org.uk/)
 
 **Wed 25 Nov 1800 "Leap of Faith" fostering project plenary meeting**
 Church Hall of Our Lady & St Alphege church hall, Oldfield Ln, Bath BA2 3NR
