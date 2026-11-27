@@ -9,17 +9,11 @@ layout: page
 
 
 Since 1990, Bath Inter Faith Group (IFG) has been working across the city to promote peace, cooperation and mutual respect among religious groups. Based on respect and good listening, inter faith work helps build social bridges and form bonds of friendship. Bath IFG aims to be an authentic voice of good faith in Bath. 
+.
+.
+.
+.
 
-
-
-
-
-
-
-
-
-
-     
 
 
 [See our film Easter at the Peace Cathedral - An interfaith journey](https://www.youtube.com/watch?v=QWwD1Yn39DY)
