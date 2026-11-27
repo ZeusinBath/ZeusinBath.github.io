@@ -23,4 +23,4 @@ Faith groups represent a promising way to reach potential carers. If you’re in
 
 ![Image alt text](/assets/images/l-o-f-pete-andrew.png)
 
-Photos by Errol Russo: participants at the Leap of Faith event at St Alphege Church
+*Photos by Errol Russo: participants at the Leap of Faith event at our Lady and St Alphege Church*
